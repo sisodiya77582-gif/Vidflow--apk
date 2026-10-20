@@ -1,0 +1,6 @@
+{
+  "name": "VidFlow - Video & Shorts Platform",
+  "description": "YouTube-inspired video sharing platform supporting long videos, vertical shorts, creator uploads with title and description, channel subscriptions, likes, and interactive comments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
